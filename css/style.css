@@ -592,7 +592,7 @@ min-height: 60vh;
 /* facts */
 #facts{
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(images/services.jpg) center/cover no-repeat;
+    url(../images/services.jpg) center/cover no-repeat;
     min-height: 80vh;
 }
 #facts .title-wrap{
